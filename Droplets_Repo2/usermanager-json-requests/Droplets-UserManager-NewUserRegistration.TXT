@@ -1,0 +1,17 @@
+Post Mapping
+
+localhost:8080/droplets-usermanager/api/v1/userManager/newUserRegistration
+
+
+
+{
+    "request": {
+        
+        "userName": "Swapnil Anand",
+        "userEmail": "abc@xyz.com",
+        "userMobileNumber": "1234567890",
+        "address": "bangalore",
+        "password": "swap@123"
+        
+    }
+}

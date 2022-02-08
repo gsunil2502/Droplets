@@ -1,0 +1,14 @@
+Put Mapping
+
+localhost:8080/droplets-usermanager/api/v1/userManager/modifyUser
+
+{
+    "request": {
+        "userId": 1,
+        "userName":"Sunil",
+        "userMobileNumber": "7899910225",
+        "userEmail":"gsunil99910@gmail.com",
+        "password":"sunil@1234",
+        "isActivated": true
+    }
+}

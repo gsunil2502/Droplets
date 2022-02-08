@@ -1,0 +1,21 @@
+Postt Mapping
+
+http://localhost:8082/api/v1/goals/addGoal
+
+{
+    "request": {
+        "goalId": 2,
+        "customerId": 101,
+        "dropletId": 11,
+        "dropletStartDate": "2021-10-07",
+        "eventType": "savings",
+        "totalSavingsPercentage": 0,
+        "totalSavingsAmount": 0,
+        "minimumSavingsAmount": 10,
+        "maximumSavingsAmount": 5000,
+        "numberOfPayments": 100,
+        "numberOfWeeks": 8,
+        "dropletEndDate": "2023-10-03",
+        "isActivated": false
+    }
+}

@@ -1,0 +1,21 @@
+Post Mapping
+
+http://localhost:8082/api/v1/goals/addOrUpdateGoals
+
+
+{
+    "request": {
+        "goalId": 1,
+        "customerId": 58,
+        "dropletId": 2,
+        "dropletStartDate": "2021-10-06",
+        "eventType": "transaction",
+        "percentage": 10,
+        "minimumAmount": 1000,
+        "maximumAmount": 100,
+        "numberOfPayments": 5,
+        "numberOfWeeks": 8,
+        "dropletEndDate": "2021-12-06",
+        "isActivated": null
+    }
+}

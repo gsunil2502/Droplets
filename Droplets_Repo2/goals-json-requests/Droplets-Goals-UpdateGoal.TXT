@@ -1,0 +1,13 @@
+Put Mapping
+
+http://localhost:8082/api/v1/goals/updateGoal
+
+{
+    "request": {
+        "trxRefNumber": "1025f",
+        "goalId": 2,
+        "savingAmount": 500,
+        "savingPercentage": 0,
+        "updateGoalid": 100
+    }
+}

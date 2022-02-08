@@ -1,0 +1,18 @@
+Post Mapping
+
+http://localhost:8085/api/v1/rules/createNewRule
+
+{
+    "request": {
+        "ruleId": 100,
+        "dropletId": 1,
+        "customerId": 58,
+        "eventType": "transaction",
+        "merchantName": "amazon",
+        "transactionAmountGreaterThan": 1000,
+        "transactionFromDate": "2021-10-13",
+        "transactionToDate": "2021-10-15",
+        "fixedAmount": 10,
+        "isActivated": false
+    }
+}

@@ -1,0 +1,14 @@
+Post Mapping
+
+http://localhost:8083/api/v1/transactionDetails/getAllTransactionsHistory
+
+
+{
+    "request": {
+        "customerId": 57,
+        "beneficaryId": "123lti",
+        "fromDate": "2021-10-06",
+        "toDate": "2021-10-08"
+    }
+}
+

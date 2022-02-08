@@ -1,0 +1,3 @@
+Get Mapping
+
+localhost:8080/droplets-usermanager/api/v1/userManager/getUserByCustomerId?customerId=56

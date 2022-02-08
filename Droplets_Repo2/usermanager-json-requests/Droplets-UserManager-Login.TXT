@@ -1,0 +1,22 @@
+Post Mapping
+
+localhost:8080/droplets-usermanager/api/v1/userManager/iam/login
+
+
+{
+    "request": {
+        
+       "userMobileNumber" : "1234567890",
+       "pazzword" : "swap@13"
+
+    }
+}
+
+{
+    "request": {
+        
+       "userEmail" : "abc@xyz.com",
+       "pazzword" : "swap@123"
+
+    }
+}

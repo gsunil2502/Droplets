@@ -1,0 +1,30 @@
+server:
+  port: 8080
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        temp:
+          use_jdbc_metadata_defaults: false
+    hibernate:
+      ddl-auto: update
+  datasource:
+    url: jdbc:postgresql://localhost:5432/droplets
+    username: postgres
+    password: charlie
+    driver: org.postgresql.Driver
+    
+droplets:
+  microservices:
+    usermanager: localhost
+    ruleengine: localhost
+    transactionmanager: localhost
+    goals: localhost
+    notifications: localhost
+    
+

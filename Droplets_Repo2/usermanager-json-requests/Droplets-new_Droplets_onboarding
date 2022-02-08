@@ -1,0 +1,15 @@
+{
+    "request": {
+        
+        "customerId": 3,
+        "originatorName": "Swapnil Anand",
+        "originatorAcctBranchCode": "DemoBranchCode002",
+        "originatorAcctNumber": "DEMO98765",
+        "originatorAcctCurrency": "INR",
+        "originatorAcctType": "INDIVISUAL",
+        "originatorBankName": "DEMOBANK1",
+        "originatorBranchName": "DEMOBRANCH1",
+        "originatorBankCode": "DEMOCODE98765"
+        
+    }
+}

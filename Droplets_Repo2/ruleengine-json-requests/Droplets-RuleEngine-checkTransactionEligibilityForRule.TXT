@@ -1,0 +1,40 @@
+Post Mapping
+
+Note: Activate the rule and check for transactionEligiblity
+
+http://localhost:8085/api/v1/rulesInitialization/checkTransactionEligibilityForRule
+
+{
+    "request": {
+        "transactionId":1,
+        "dropletId":2,
+        "customerId":58,
+        "originatorName":"rajesh",
+        "debitAccountBranch":"varam",
+        "debitAccountNumber":"5202121212126d4",
+        "debitAccountCurrency":"INR",
+        "debitAccountType":"savings",
+        "debitAccountBank":"canara",
+        "debitAccountBankCode":"can121654",
+        "debitAmount":102021,
+        "creditAmount":52124,
+        "fxRate":55,
+        "trxRefNumber":"14s54d",
+        "transactionStatus":"successfull",
+        "transactionDate":"2021-10-06",
+        "beneficiaryName":"hdfc",
+        "beneficiaryAccountBranch":"udupi",
+        "beneficiaryAccountNumber":"5251211dfd4",
+        "beneficiaryAcctCurrency":"INR",
+        "beneficiaryAcctType":"business",
+        "beneficiaryBankName":"hsfcbank",
+        "beneficiaryBranchName":"ududpi",
+        "beneficiaryBankCode":"46545dh",
+        "beneficiarySwiftCode":"dhgd544",
+        "originatorNarrative":"buying",
+        "beneficiaryNarrative":"buying somethng",
+        "originalTrxAmount":224554,
+        "originalTrxRefNumber":"djhjhd54",
+        "originalTrxDate":"2021-10-06"
+    }
+}

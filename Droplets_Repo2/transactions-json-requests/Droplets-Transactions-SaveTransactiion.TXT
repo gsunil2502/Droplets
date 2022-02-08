@@ -1,0 +1,38 @@
+Post Mapping
+
+localhost:8083/api/v1/transactionDetails/saveTransaction
+
+{
+    "request": {
+        "transactionId":100,
+        "dropletId":1,
+        "customerId":57,
+        "originatorName":"rajesh",
+        "debitAccountBranch":"varam",
+        "debitAccountNumber":"5202121212126d4",
+        "debitAccountCurrency":"INR",
+        "debitAccountType":"savings",
+        "debitAccountBank":"canara",
+        "debitAccountBankCode":"can121654",
+        "debitAmount":102021,
+        "creditAmount":52124,
+        "fxRate":55,
+        "trxRefNumber":"14s54d",
+        "transactionStatus":"successfull",
+        "transactionDate":"2021-10-06",
+        "beneficiaryName":"hdfc",
+        "beneficiaryAccountBranch":"udupi",
+        "beneficiaryAccountNumber":"5251211dfd4",
+        "beneficiaryAcctCurrency":"INR",
+        "beneficiaryAcctType":"business",
+        "beneficiaryBankName":"hsfcbank",
+        "beneficiaryBranchName":"ududpi",
+        "beneficiaryBankCode":"46545dh",
+        "beneficiarySwiftCode":"dhgd544",
+        "originatorNarrative":"buying",
+        "beneficiaryNarrative":"buying somethng",
+        "originalTrxAmount":224554,
+        "originalTrxRefNumber":"djhjhd54",
+        "originalTrxDate":"2021-10-06"
+    }
+}

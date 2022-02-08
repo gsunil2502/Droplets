@@ -1,0 +1,3 @@
+Get Mapping
+
+http://localhost:8085/api/v1/rules/deleteRule?ruleId=1
