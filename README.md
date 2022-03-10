@@ -5,14 +5,11 @@ It is a micro savings apps that identify small savings opportunities within your
 
 In this application we have implemented essential backend microservices such user microservice, Goals microservice, Transaction microservice, Rules microservice, Transaction microservice, Notification microservice.
 
+All the payloads are there in https://github.com/gsunil2502/Droplets/tree/main/Droplets_Repo2
 
-## How to run the project!
-### - Clone the project
-> ``` git clone  "https://github.com/gsunil2502/Droplets" ```
 
-> ```cd Droplets```
 
- ### - Requirements
+ ### - Application Requirements
  
  > ```Java```
  > ```Spring Boot Application```
@@ -21,6 +18,12 @@ In this application we have implemented essential backend microservices such use
  > ```Spring JPA```
  > ```Spring JWT```
  > ```Post Man Application```
+
+## How to run the project!
+### - Clone the project
+> ``` git clone  "https://github.com/gsunil2502/Droplets" ```
+
+> ```cd Droplets```
 
 
  ## Want to Contribute, if you find any bug or want to upgrade a feature,
