@@ -1,11 +1,11 @@
-## Droplets [![GitHub stars](https://img.shields.io/github/stars/gsunil2502/Droplets?style=social)](https://github.com/login?return_to=%2Fgsunil2502%Droplets) ![GitHub forks](https://img.shields.io/github/forks/gsunil2502/Droplets?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gsunil2502/Droplets) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gsunil2502/Droplets) 
+## Droplets [![GitHub stars](https://img.shields.io/github/stars/gsunil99/Droplets?style=social)](https://github.com/login?return_to=%2Fgsunil99%Droplets) ![GitHub forks](https://img.shields.io/github/forks/gsunil99/Droplets?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/gsunil99/Droplets) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gsunil99/Droplets) 
 
 What is Droplets?
 It is a micro savings apps that identify small savings opportunities within your existing budget and automatically sweep money into a savings account. They amounts are small — sometimes cents at a time.
 
 In this application we have implemented essential backend microservices such user microservice, Goals microservice, Transaction microservice, Rules microservice, Transaction microservice, Notification microservice.
 
-All the payloads are there in https://github.com/gsunil2502/Droplets/tree/main/Droplets_Repo2
+All the payloads are there in https://github.com/gsunil99/Droplets/tree/main/Droplets_Repo2
 
 
 
@@ -21,7 +21,7 @@ All the payloads are there in https://github.com/gsunil2502/Droplets/tree/main/D
 
 ## How to run the project!
 ### - Clone the project
-> ``` git clone  "https://github.com/gsunil2502/Droplets" ```
+> ``` git clone  "https://github.com/gsunil99/Droplets" ```
 
 > ```cd Droplets```
 
@@ -31,7 +31,7 @@ Follow these steps:
 - Fork the project.
 - Clone the repository to your local environment.
 
-    ```$ git clone  "https://github.com/gsunil2502/Droplets" ```
+    ```$ git clone  "https://github.com/gsunil99/Droplets" ```
     
 - Make new changes, commit the changes and upload that to your GitHub.
 
